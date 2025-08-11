@@ -30,9 +30,6 @@
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadenassi01&show_icons=true&theme=dark)
 
-<!-- Portfolio -->
-## Portfolio:
-- [Calculate carbon consumption](https://github.com/Cadenassi01/Consumo_de_carbono/blob/main/carbono_neutro.py)
 
 <!-- GIF -->
 <p align="left">
