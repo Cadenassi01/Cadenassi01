@@ -1,26 +1,26 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá Mundo</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Matheus! A student.
+  Olá 👋, sou o Matheus! Sou estudante.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Universidade Paulista
+  - 🌱 Atualmente estou cursando Ciência da Computação na Universidade Paulista
 
-  - 🔭 I am determined to grow professionally in the IT field. My goal is to continuously improve my skills, stay up to date with the latest trends, and face new challenges that push me to become better.
+  - 🔭  Estou determinado a crescer profissionalmente na área de TI. Meu objetivo é aprimorar continuamente minhas habilidades, me manter atualizado com as últimas tendências e enfrentar novos desafios que me impulsionem a me tornar melhor.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻  Mais sobre mim</summary>
 
-  - 💬 I am 20 years old. I have basic English skills and a working knowledge of Python, HTML, CSS, and JavaScript. Currently, I work diagnosing and solving problems related to hardware, software, and other devices. I perform maintenance on computers, printers, and other equipment, provide technical support, and carry out infrastructure tasks such as cabling and network configuration.
+  - 💬 Tenho 20 anos. Possuo conhecimentos básicos de inglês e conhecimento prático de Python, HTML, CSS e JavaScript. Atualmente, trabalho diagnosticando e solucionando problemas relacionados a hardware, software e outros dispositivos. Realizo manutenção em computadores, impressoras e outros equipamentos, ofereço suporte técnico e realizo tarefas de infraestrutura, como cabeamento e configuração de rede.
 
 
-  - ⚡I do volunteer work at Colorado Caieiras Futebol Clube, a futsal team that takes part in major competitions organized by the São Paulo Futsal Federation. 
+  - ⚡Faço trabalho voluntário no Colorado Caieiras Futebol Clube, time de futsal que participa das principais competições organizadas pela Federação Paulista de Futsal.
 </details>
 
 <!-- Links -->
@@ -32,10 +32,10 @@
 
 
 
-## 🔥 Skills
+## 🔥 Habilidades
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de Programação</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -44,7 +44,7 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas e Estruturas</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
   
