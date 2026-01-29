@@ -27,9 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cadenassi-108943260/)
 
 
-<!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadenassi01&show_icons=true&theme=dark)
-
 
 
 ## 🔥 Habilidades
