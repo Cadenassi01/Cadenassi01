@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, sou o Matheus! Sou estudante.
+  Olá, sou o Matheus!
 
   - 🌱 Atualmente estou cursando Ciência da Computação na Universidade Paulista
 
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻  Mais sobre mim</summary>
 
-  - 💬 Tenho 20 anos. Possuo conhecimentos básicos de inglês e conhecimento prático de Python, HTML, CSS e JavaScript. Atualmente, trabalho diagnosticando e solucionando problemas relacionados a hardware, software e outros dispositivos. Realizo manutenção em computadores, impressoras e outros equipamentos, ofereço suporte técnico e realizo tarefas de infraestrutura, como cabeamento e configuração de rede.
+  - 💬 Tenho 21 anos. Possuo conhecimentos básicos de inglês e conhecimento prático de Python, HTML, CSS e JavaScript. Atualmente, trabalho diagnosticando e solucionando problemas relacionados a hardware, software e outros dispositivos. Realizo manutenção em computadores, impressoras e outros equipamentos, ofereço suporte técnico e realizo tarefas de infraestrutura, como cabeamento e configuração de rede.
 
 
   - ⚡Faço trabalho voluntário no Colorado Caieiras Futebol Clube, time de futsal que participa das principais competições organizadas pela Federação Paulista de Futsal.
